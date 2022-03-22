@@ -1,0 +1,12 @@
+.container {
+  max-width: calc(960px - 40px);
+
+  margin: auto;
+  margin-top: 20px;
+  padding: 0 20px;
+}
+
+.header {
+  border: solid 1px;
+  padding: 20px;
+}

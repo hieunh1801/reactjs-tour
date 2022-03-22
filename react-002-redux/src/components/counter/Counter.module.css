@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  row-gap: 20px;
+  padding-top: 60px;
+}
+
+.button {
+  padding: 8px;
+  border: solid 1px #f2f2f2;
+  background-color: #f2f2f2;
+
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+}
+
+.button:hover {
+  background-color: #dddddd;
+
+  cursor: pointer;
+}
