@@ -4,7 +4,7 @@
     border-radius: 5px;
     display: flex;
     flex-direction: column;
-    width: 500px;
+    max-width: 500px;
     align-self: center;
 }
 
@@ -41,4 +41,13 @@
     color: #fff;
     font-weight: 500;
     cursor: pointer;
+}
+
+@media screen and (max-width: 500px) {
+    .loginForm__actions {
+        flex-direction: column;
+        column-gap: 10px;
+        row-gap: 10px;
+    }
+
 }

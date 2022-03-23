@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "alg": "RS256",
+    "kid": "729189450d49028570425266f03e737f45af2932",
+    "typ": "JWT"
+  },
+  "payload": {
+    "iss": "accounts.google.com",
+    "azp": "110446158473-m51f4lnkbdhicq52jg0qqtopkdugn5su.apps.googleusercontent.com",
+    "aud": "110446158473-m51f4lnkbdhicq52jg0qqtopkdugn5su.apps.googleusercontent.com",
+    "sub": "104508869565117659677",
+    "email": "hieunh1801@gmail.com",
+    "email_verified": true,
+    "at_hash": "pvtAs2YK6e0NFn0HcAUqDQ",
+    "name": "HIếu Nguyễn",
+    "picture": "https://lh3.googleusercontent.com/a/AATXAJxfEzWrrvM9mYBhEEMiqlfa6ktmuyJ2yq60J-sg=s96-c",
+    "given_name": "HIếu",
+    "family_name": "Nguyễn",
+    "locale": "vi",
+    "iat": 1648018502,
+    "exp": 1648022102,
+    "jti": "75480e80097e30c2df4dbf5a4218f02dfe311fb4"
+  }
+}
