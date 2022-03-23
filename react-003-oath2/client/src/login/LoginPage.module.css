@@ -1,0 +1,44 @@
+.loginForm {
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    align-self: center;
+}
+
+.loginForm__group {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.loginForm__group > label {
+    margin-bottom: 5px;
+    font-weight: 500;
+}
+
+.loginForm__group > input {
+    border: 1px solid #ccc;
+    border-radius: 1px;
+    padding: 10px;
+    width: calc(100% - 20px);
+    outline: none;
+}
+
+.loginForm__actions {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.loginForm__actions > button {
+    margin-left: 10px;
+    padding: 10px;
+    border: none;
+    border-radius: 1px;
+    background-color: #008205;
+    color: #fff;
+    font-weight: 500;
+    cursor: pointer;
+}
