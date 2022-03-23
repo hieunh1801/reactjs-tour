@@ -1,0 +1,62 @@
+.container {
+  padding: 20px;
+  max-width: calc(960px - 40px);
+  background-color: #f2f2f2;
+  margin: auto;
+  display: flex;
+  justify-content: flex-start;
+  align-content: flex-start;
+  flex-direction: column;
+}
+
+.content {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  background-color: rgb(255, 255, 255);
+  padding: 20px;
+}
+
+.content > img {
+  width: (100px - 20px);
+  height: 100px;
+  padding: 10px;
+  border: solid #d8d8d8 1px;
+  object-fit: contain;
+}
+
+.animalForm {
+  padding: 0 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  row-gap: 10px;
+  height: 100%;
+}
+
+.animalForm > input {
+  padding: 10px;
+  border-radius: none;
+}
+
+.animalForm > button {
+  padding: 4px;
+  align-self: flex-end;
+  border-radius: none;
+}
+
+.spinner {
+  margin: 0 4px 0 6px;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
