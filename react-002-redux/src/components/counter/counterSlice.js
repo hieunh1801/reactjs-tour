@@ -21,3 +21,7 @@ const counterSlice = createSlice({
 export const counterActions = counterSlice.actions;
 
 export const counterReducer = counterSlice.reducer;
+
+export const counterSelector = {
+  value: (state) => state.counter.value,
+};

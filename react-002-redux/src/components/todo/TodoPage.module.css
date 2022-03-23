@@ -1,0 +1,25 @@
+.container {
+    width: 100%;
+}
+
+.wrapper {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+
+.header {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.button__add {
+    outline: none;
+    border-radius: 0;
+    padding: 10px;
+    display: inline;
+}

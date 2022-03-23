@@ -1,0 +1,34 @@
+.container {
+    max-width: calc(960px - 40px);
+    margin: auto;
+    margin-top: 20px;
+    padding: 0 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+.header {
+    border: solid 1px;
+    padding: 20px;
+}
+
+.button__create {
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    background-color: #f2f2f2;
+    padding: 10px 20px;
+    border-radius: 5px;
+
+}
+
+.button__create:hover {
+    background-color: #e6e6e6;
+    cursor: pointer;
+    user-select: none;
+}
+@media screen and (max-width: 600px) {
+    .container {
+        flex-direction: column;
+    }
+}

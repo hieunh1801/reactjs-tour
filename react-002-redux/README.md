@@ -11,6 +11,7 @@ cd react-002-redux
 npm run start
 
 # install lib
+npm install react-router-dom
 npm install @reduxjs/toolkit react-redux
-
+npm install --save redux-form
 ```
