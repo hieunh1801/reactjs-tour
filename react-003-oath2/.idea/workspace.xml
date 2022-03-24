@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db927b23-1fb5-4b60-9b2a-fb9ec70bd853" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/data/google-tiket.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/evn/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-001/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../react-001/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-001/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../react-001/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-001/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../react-001/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-001/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-001/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-001/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-001/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-001/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../react-001/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-001/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-001/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/login/LoginPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/login/LoginPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/login/LoginPage.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/login/LoginPage.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +28,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../english-tour" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -106,7 +89,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648015649564</updated>
-      <workItem from="1648015650752" duration="2951000" />
+      <workItem from="1648015650752" duration="3550000" />
+      <workItem from="1648033318745" duration="609000" />
     </task>
     <servers />
   </component>
