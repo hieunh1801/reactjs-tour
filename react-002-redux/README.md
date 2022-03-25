@@ -13,5 +13,15 @@ npm run start
 # install lib
 npm install react-router-dom
 npm install @reduxjs/toolkit react-redux
-npm install --save redux-form
+
+```
+
+## Run Project
+
+```bash
+npm ci
+
+npm run start:data # start json server - serving data on data
+
+npm run start # start project
 ```
